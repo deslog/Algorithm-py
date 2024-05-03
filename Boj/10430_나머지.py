@@ -1,1 +1,3 @@
-print("hello")print("test")
+print("hello")
+print("test")
+print("terminal commit test")
